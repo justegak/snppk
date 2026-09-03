@@ -1,0 +1,7 @@
+# Dependances pour un lancement local hors Docker (SQLite via dev_settings.py).
+# La stack officielle reste config.settings + PostgreSQL/PostGIS (voir requirements.txt + docker-compose.yml).
+Django==5.2.6
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+whitenoise==6.9.0

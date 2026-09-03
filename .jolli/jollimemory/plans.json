@@ -1,0 +1,62 @@
+{
+	"version": 1,
+	"plans": {},
+	"skills": {
+		"claude:artifact-design": {
+			"source": "claude",
+			"skill": "artifact-design",
+			"entryPaths": [
+				"tool"
+			],
+			"invocations": [
+				{
+					"at": "2026-09-03T13:33:04.755Z",
+					"bodyChars": 15329,
+					"ok": true,
+					"outcomeObserved": true,
+					"entryPath": "tool"
+				}
+			],
+			"invocationCount": 1,
+			"firstUsedAt": "2026-09-03T13:33:04.755Z",
+			"lastUsedAt": "2026-09-03T13:33:04.755Z",
+			"usage": {
+				"input": 6,
+				"cached": 19115,
+				"output": 14276,
+				"confidence": "attributed"
+			},
+			"usageBySession": {
+				"claude:15ad8b3f-5c01-4d19-98be-f19401d99776": {
+					"input": 6,
+					"cached": 19115,
+					"output": 14276,
+					"confidence": "attributed"
+				}
+			},
+			"sourcePath": "D:\\projet\\snppk\\snppk\\.jolli\\jollimemory\\skills\\claude\\artifact-design-374fa7a0.md",
+			"commitHash": null
+		},
+		"claude:xlsx": {
+			"source": "claude",
+			"skill": "xlsx",
+			"entryPaths": [
+				"tool"
+			],
+			"invocations": [
+				{
+					"at": "2026-09-03T14:46:24.731Z",
+					"bodyChars": 7699,
+					"ok": true,
+					"outcomeObserved": true,
+					"entryPath": "tool"
+				}
+			],
+			"invocationCount": 1,
+			"firstUsedAt": "2026-09-03T14:46:24.731Z",
+			"lastUsedAt": "2026-09-03T14:46:24.731Z",
+			"sourcePath": "D:\\projet\\snppk\\snppk\\.jolli\\jollimemory\\skills\\claude\\xlsx-1c980b22.md",
+			"commitHash": null
+		}
+	}
+}

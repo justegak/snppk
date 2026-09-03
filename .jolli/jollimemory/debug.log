@@ -1,0 +1,99 @@
+[2026-09-03T12:10:53.739Z] INFO  [SkillProjection] projectActiveSkills: 0 active (0 in registry)
+[2026-09-03T12:10:55.258Z] INFO  [Sync:VsCodeBootstrap] Memory Bank sync engine built (auto-sync off — manual only)
+[2026-09-03T12:10:56.171Z] INFO  [StorageFactory] StorageFactory.create: route=uncutover, projectPath=d:\projet\snppk\snppk
+[2026-09-03T12:10:56.877Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:10:56.890Z] INFO  [RepoProfile] manual-disable MIGRATE → manuallyDisabled=false (pid=12020, profile=d:\projet\snppk\snppk\.jolli\jollimemory\profile.json, fence=none, from=legacy-marker) ←  at fY (c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:115:909) | at c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:116:953 | at async Ef (c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:3:5846) | at async uY (c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:116:572) | at async yo (c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:116:475) | at async t.refreshHookPathsIfStale (c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist\Extension.js:4021:18339)
+[2026-09-03T12:10:58.535Z] INFO  [StorageFactory] StorageFactory.create: route=uncutover, projectPath=d:\projet\snppk\snppk
+[2026-09-03T12:10:59.776Z] INFO  [RepoProfile] manual-disable read → false (by=migrate:legacy-marker, pid=12020, cwd=d:\projet\snppk\snppk, profile=d:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=undefined fence=none)
+[2026-09-03T12:10:59.923Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:10:59.937Z] INFO  [StorageFactory] StorageFactory.create: route=uncutover, projectPath=d:\projet\snppk\snppk
+[2026-09-03T12:11:01.194Z] INFO  [SchemaV5Migration] Storage backend not initialized yet — skipping schema v5 migration (no data to migrate)
+[2026-09-03T12:11:01.194Z] INFO  [activate] Schema v5 migration: alreadyDone=false fresh=true migrated=0 skipped=0
+[2026-09-03T12:11:04.262Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=0, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:04.268Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:04.872Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=0, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:04.875Z] INFO  [initialLoad] All panels loaded — updating status bar
+[2026-09-03T12:11:04.875Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:07.753Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=0, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:08.791Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=0, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:09.083Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:09.124Z] INFO  [StorageFactory] StorageFactory.create: route=uncutover, projectPath=d:\projet\snppk\snppk
+[2026-09-03T12:11:12.096Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=0, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:12.097Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=12020, cwd=d:\projet\snppk\snppk, profile=d:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T12:11:12.097Z] INFO  [activate] Auto-enabling Jolli Memory (no opt-out recorded)
+[2026-09-03T12:11:12.098Z] INFO  [bridge] enable() called
+[2026-09-03T12:11:12.099Z] INFO  [Installer] Installing Jolli Memory hooks
+[2026-09-03T12:11:12.342Z] INFO  [DispatchScripts] Wrote resolve-dist-path, run-hook, and run-cli scripts to C:\Users\kapel\.jolli\jollimemory
+[2026-09-03T12:11:12.354Z] INFO  [DistPathWriter] Wrote dist-paths/vscode (version=0.99.17, distDir=c:\Users\kapel\.vscode\extensions\jolli.jollimemory-vscode-0.99.17\dist)
+[2026-09-03T12:11:12.488Z] INFO  [SkillInstaller] Wrote SKILL.md (revision 3) to D:\projet\snppk\snppk\.agents\skills\jolli-recall\SKILL.md
+[2026-09-03T12:11:12.616Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:12.749Z] INFO  [SkillInstaller] Wrote SKILL.md (revision 3) to D:\projet\snppk\snppk\.agents\skills\jolli-search\SKILL.md
+[2026-09-03T12:11:12.768Z] INFO  [SkillInstaller] Wrote SKILL.md (revision 6) to D:\projet\snppk\snppk\.agents\skills\jolli-local-run\SKILL.md
+[2026-09-03T12:11:12.795Z] INFO  [SkillInstaller] Wrote SKILL.md (revision 5) to D:\projet\snppk\snppk\.agents\skills\jolli-remote-run\SKILL.md
+[2026-09-03T12:11:12.801Z] INFO  [SkillInstaller] Wrote SKILL.md (revision 9) to D:\projet\snppk\snppk\.agents\skills\jolli\SKILL.md
+[2026-09-03T12:11:13.218Z] INFO  [GitExclude] Updated D:\projet\snppk\snppk\.git\info\exclude with 8 Jolli skill exclude paths
+[2026-09-03T12:11:13.222Z] INFO  [McpRegistration] Registered MCP server in D:\projet\snppk\snppk\.mcp.json
+[2026-09-03T12:11:13.228Z] INFO  [JsonMcpWriter] Registered MCP server in D:\projet\snppk\snppk\.cursor\mcp.json
+[2026-09-03T12:11:13.418Z] INFO  [JsonMcpWriter] MCP server already registered in C:\Users\kapel\.gemini\settings.json — no write needed
+[2026-09-03T12:11:13.422Z] INFO  [CodexTomlWriter] Codex MCP server already registered in C:\Users\kapel\.codex\config.toml — no write needed
+[2026-09-03T12:11:13.424Z] INFO  [JsonMcpWriter] MCP server already registered in C:\Users\kapel\AppData\Roaming\Code\User\mcp.json — no write needed
+[2026-09-03T12:11:13.428Z] INFO  [JsonMcpWriter] MCP server already registered in C:\Users\kapel\AppData\Roaming\Code\User\globalStorage\saoudrizwan.claude-dev\settings\cline_mcp_settings.json — no write needed
+[2026-09-03T12:11:13.430Z] INFO  [JsonMcpWriter] MCP server already registered in C:\Users\kapel\.gemini\config\mcp_config.json — no write needed
+[2026-09-03T12:11:13.434Z] INFO  [JsonMcpWriter] MCP server already registered in C:\Users\kapel\.kimi-code\mcp.json — no write needed
+[2026-09-03T12:11:13.464Z] INFO  [GitHookInstaller] Git post-commit hook installed
+[2026-09-03T12:11:13.526Z] INFO  [GitHookInstaller] Git post-rewrite hook installed
+[2026-09-03T12:11:13.602Z] INFO  [GitHookInstaller] Git prepare-commit-msg hook installed
+[2026-09-03T12:11:13.613Z] INFO  [GitHookInstaller] Git post-merge hook installed
+[2026-09-03T12:11:13.629Z] INFO  [GitHookInstaller] Git pre-push hook installed
+[2026-09-03T12:11:13.642Z] INFO  [GeminiHookInstaller] Gemini AfterAgent hook installed
+[2026-09-03T12:11:13.644Z] INFO  [Installer] Skipping v5 migration on vscode-extension source — Extension.ts owns it with UI
+[2026-09-03T12:11:13.644Z] INFO  [Installer] Installation complete
+[2026-09-03T12:11:13.647Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:14.264Z] INFO  [Installer] Status: enabled=false, claude=false, git=false, geminiHook=false, hermesHook=false, worktreeHooks=false, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=1, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:15.012Z] INFO  [Installer] Status: enabled=true, claude=true, git=true, geminiHook=true, hermesHook=false, worktreeHooks=true, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=1, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:11:15.026Z] INFO  [Installer] Checking Jolli Memory status
+[2026-09-03T12:11:16.070Z] INFO  [Installer] Status: enabled=true, claude=true, git=true, geminiHook=true, hermesHook=false, worktreeHooks=true, sessions=1, summaries=0, codex=true/true, gemini=true/true, enabledWorktrees=1, opencode=false/undefined, cursor=true/true, copilot=false/true, copilotChat=true, cline=true/true
+[2026-09-03T12:14:58.101Z] INFO  [PlanService] detectPlans found 0 plans (0 in registry)
+[2026-09-03T12:14:58.101Z] INFO  [NoteService] detectNotes found 0 notes (0 in registry)
+[2026-09-03T12:14:58.101Z] INFO  [references] detectReferences(*) found 0 (0 in registry)
+[2026-09-03T12:14:58.101Z] INFO  [SkillProjection] projectActiveSkills: 0 active (0 in registry)
+[2026-09-03T12:25:01.369Z] INFO  [PlanService] detectPlans found 0 plans (0 in registry)
+[2026-09-03T12:25:01.370Z] INFO  [NoteService] detectNotes found 0 notes (0 in registry)
+[2026-09-03T12:25:01.370Z] INFO  [references] detectReferences(*) found 0 (0 in registry)
+[2026-09-03T12:25:01.370Z] INFO  [SkillProjection] projectActiveSkills: 0 active (0 in registry)
+[2026-09-03T13:20:12.944Z] INFO  [SessionStartHook] SessionStartHook invoked (cwd=D:/projet/snppk/snppk)
+[2026-09-03T13:20:12.952Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=12428, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T13:20:12.954Z] INFO  [SessionStartHook] No briefing or reminder generated (skipped or timed out)
+[2026-09-03T13:20:12.977Z] INFO  [EnsureGlobalDaemon] spawned global daemon ensure helper (pid 17228)
+[2026-09-03T13:21:35.583Z] INFO  [McpProxy] [trace=f9282c2637a6257fc54b8936c6c0eff1] Spawned MCP daemon (pid 13236) for D:/projet/snppk/snppk
+[2026-09-03T13:21:39.729Z] INFO  [SkillAutoRefresh] [trace=24827ecafadb4084bce94bc35d526c77] Refreshed Jolli skills at D:\projet\snppk\snppk for version 0.99.17
+[2026-09-03T13:21:40.444Z] INFO  [SessionStartHook] SessionStartHook invoked (cwd=D:/projet/snppk/snppk)
+[2026-09-03T13:21:40.514Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=22024, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T13:21:40.516Z] INFO  [SessionStartHook] No briefing or reminder generated (skipped or timed out)
+[2026-09-03T13:21:40.549Z] INFO  [EnsureGlobalDaemon] spawned global daemon ensure helper (pid 2988)
+[2026-09-03T13:21:40.895Z] INFO  [StorageFactory] [trace=24827ecafadb4084bce94bc35d526c77] StorageFactory.create: route=uncutover, projectPath=D:/projet/snppk/snppk
+[2026-09-03T13:21:44.483Z] INFO  [McpServer] [trace=24827ecafadb4084bce94bc35d526c77] MCP runtime ready: 10/10 built-in (insideRepo=true) + 23 platform tool(s), gate=open, manifest=ok
+[2026-09-03T13:21:44.491Z] INFO  [McpDaemon] [trace=24827ecafadb4084bce94bc35d526c77] MCP daemon listening on \\.\pipe\jolli-mcp-379d53a8e09a33d6 (cwd=D:/projet/snppk/snppk, version=0.99.17)
+[2026-09-03T13:21:44.633Z] INFO  [McpProxy] [trace=f9282c2637a6257fc54b8936c6c0eff1] Attached to MCP daemon 13236 (v0.99.17) for D:/projet/snppk/snppk
+[2026-09-03T13:21:44.774Z] INFO  [McpServer] MCP client connected: claude-code/2.1.258 (agent: claude)
+[2026-09-03T13:35:23.699Z] INFO  [StopHook] Stop hook triggered (session=15ad8b3f-5c01-4d19-98be-f19401d99776)
+[2026-09-03T13:35:23.707Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=18772, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T13:35:23.707Z] INFO  [StopHook] Hook input — session_id=15ad8b3f-5c01-4d19-98be-f19401d99776, transcript_path=C:\Users\kapel\.claude\projects\D--projet-snppk-snppk\15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
+[2026-09-03T13:35:23.745Z] INFO  [StopHook] Session saved successfully
+[2026-09-03T13:35:25.139Z] INFO  [SessionTracker] upsertSkillEntry: claude:artifact-design (new, ×1)
+[2026-09-03T13:35:25.143Z] INFO  [SkillDiscovery] Persisted 1 skill(s) from 15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
+[2026-09-03T13:54:46.810Z] INFO  [StopHook] Stop hook triggered (session=15ad8b3f-5c01-4d19-98be-f19401d99776)
+[2026-09-03T13:54:46.817Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=22312, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T13:54:46.817Z] INFO  [StopHook] Hook input — session_id=15ad8b3f-5c01-4d19-98be-f19401d99776, transcript_path=C:\Users\kapel\.claude\projects\D--projet-snppk-snppk\15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
+[2026-09-03T13:54:46.833Z] INFO  [StopHook] Session saved successfully
+[2026-09-03T14:38:23.387Z] INFO  [StopHook] Stop hook triggered (session=15ad8b3f-5c01-4d19-98be-f19401d99776)
+[2026-09-03T14:38:23.396Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=16276, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T14:38:23.396Z] INFO  [StopHook] Hook input — session_id=15ad8b3f-5c01-4d19-98be-f19401d99776, transcript_path=C:\Users\kapel\.claude\projects\D--projet-snppk-snppk\15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
+[2026-09-03T14:38:23.412Z] INFO  [StopHook] Session saved successfully
+[2026-09-03T15:17:23.558Z] INFO  [StopHook] Stop hook triggered (session=15ad8b3f-5c01-4d19-98be-f19401d99776)
+[2026-09-03T15:17:23.572Z] INFO  [RepoProfile] manual-disable read → false (by=manuallyDisabled, pid=88, cwd=D:/projet/snppk/snppk, profile=D:\projet\snppk\snppk\.jolli\jollimemory\profile.json, raw: userDisabled=undefined manuallyDisabled=false fence=none)
+[2026-09-03T15:17:23.573Z] INFO  [StopHook] Hook input — session_id=15ad8b3f-5c01-4d19-98be-f19401d99776, transcript_path=C:\Users\kapel\.claude\projects\D--projet-snppk-snppk\15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
+[2026-09-03T15:17:23.597Z] INFO  [StopHook] Session saved successfully
+[2026-09-03T15:17:25.231Z] INFO  [SlowQuery] 208ms all [rw] params=6 rows=3611 :: SELECT s.repo_id, e.responded_at_ms AS at_ms, e.updated_at_ms AS w FROM session_usage_events e JOIN sessions s ON s.event_id = e.session_event_id WHERE e.updated_at_ms > ? AND e.responded_at_ms >= ? AND e.responded_at_ms < ? UNION ALL SELEC…
+[2026-09-03T15:17:28.744Z] INFO  [SessionTracker] upsertSkillEntry: claude:xlsx (new, ×1)
+[2026-09-03T15:17:28.751Z] INFO  [SkillDiscovery] Persisted 1 skill(s) from 15ad8b3f-5c01-4d19-98be-f19401d99776.jsonl
